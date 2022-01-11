@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\7Segment_Clock1" 
+PRINT(".\Listings\7Segment_Clock1.m51") RAMSIZE(256) 
